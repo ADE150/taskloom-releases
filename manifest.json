@@ -1,7 +1,7 @@
 {
   "id": "taskloom",
   "name": "TaskLoom",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "minAppVersion": "1.7.2",
   "description": "Weave TODOs, goals, decisions and predictions into a living dependency graph, with list, timeline and board views.",
   "author": "ADE150",
